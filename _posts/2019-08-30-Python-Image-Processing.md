@@ -54,7 +54,7 @@ I was also able to use OpenCV to create a masking that separated individual RGB 
 
 The last notable takeaway I want to mention is how easy it is to use OpenCV to effect different color spaces. Although all of the examples have been geared towards the RGB color space, the author has provided content to show how easy it is to represent images in other color spaces, such as HSL and CIELAB. For example, the image below shows what the picture looks like in the CIELAB color space (a color space that attempts to represent how humans interpret color).
 
-<img src="/assets/imgs/spider-lab.jpg" alt="Spider Image represented in L*a*b* color space">
+<img src="/assets/imgs/spider-lab.jpg" alt="Spider Image represented in CIELAB color space">
 
 ## Going Forward
 I am now over halfway done with the book, and the next stage will be to begin real-time analyses of the images, starting with creating histograms using the images’ color ranges. By next week I would like to try to finish the book and begin implementing this research into my MSIS project.
