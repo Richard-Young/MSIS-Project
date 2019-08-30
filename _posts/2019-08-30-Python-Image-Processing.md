@@ -52,7 +52,7 @@ I was also able to use OpenCV to create a masking that separated individual RGB 
 <img src="/assets/imgs/spider-green.jpg" alt="Spider Image only show Green Channel">
 <img src="/assets/imgs/spider-blue.jpg" alt="Spider Image only show Blue Channel">
 
-The last notable takeaway I want to mention is how easy it is to use OpenCV to effect different color spaces. Although all of the examples have been geared towards the RGB color space, the author has provided content to show how easy it is to represent images in other color spaces, such as HSL and L*a*b*. For example, the image below shows what the picture looks like in the  L*a*b* color space (a color space that attempts to represent how humans interpret color).
+The last notable takeaway I want to mention is how easy it is to use OpenCV to effect different color spaces. Although all of the examples have been geared towards the RGB color space, the author has provided content to show how easy it is to represent images in other color spaces, such as HSL and CIELAB. For example, the image below shows what the picture looks like in the CIELAB color space (a color space that attempts to represent how humans interpret color).
 
 <img src="/assets/imgs/spider-lab.jpg" alt="Spider Image represented in L*a*b* color space">
 
