@@ -16,13 +16,3 @@ Following the [documentation precedent](https://andrew-pyle.github.io/msis-proje
 ## Going Forward
 
 Going forward, I intend to post weekly updates to this blog every Friday. In these updates I will showcase the current status of my project as well as how I intend to move forward. Additionally, I will discuss problems I encountered and my thought process behind achieving a solution. Ultimately, this blog will serve as the final report for my MSIS Project.
-
- 
-
-
-
-
-
-
-
-

@@ -20,14 +20,3 @@ Dr. Bauer is the program coordinator for the E Commerce degree program at UA Lit
 ## Dr. Joseph Williams <span>| Associate Professor of Rhetoric and Writing, UA Little Rock</span>
 
 I have been mentored by Dr. Williams in both my undergraduate and graduate studies. During my undergraduate career, Dr. Williams first introduced me to user experience principles and testing. I had the opportunity to work with Dr. Williams again in Fall 2018 as my graduate mentor for my Independent Study elective in which I had an amazing experience studying Game Theory and Unity 3D Development. Dr. Williams has a wealth of knowledge regarding human computer interface design and human psychology in general, and I am grateful to have him as a member of my project committee.
-
-
- 
-
-
-
-
-
-
-
-

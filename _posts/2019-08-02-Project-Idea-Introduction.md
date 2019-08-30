@@ -16,14 +16,3 @@ In short, developers are taking entire movies, condensing them, and representing
 After seeing moviebarcodes in action, I began considering possible applications to my work with [COSMOS](http://cosmos.ualr.edu/){:target="_blank"}. One of the major programs I work with, [YoutubeTracker](http://cosmos.ualr.edu/tools/youtubetracker/){:target="_blank"}, is a research tool for Youtube Analysis that is currently in development by COSMOS at UA Little Rock. The goal of YouTubeTracker is to make finding insights for Youtube accessible to people that are not data scientists but are interested in researching a particular topic.
 
 For my project idea, I hypothesize that YoutubeTracker can utilize moviebarcodes  to effectively visualize data and provide impactful insights. Based on the feedback I have received in COSMOS and my social computing class, I feel confident taking this idea forward as the official topic for my project. My next step now is to secure the members of my project committee.
-
-
- 
-
-
-
-
-
-
-
-

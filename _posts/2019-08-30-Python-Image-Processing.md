@@ -12,7 +12,7 @@ This was a busy week. I experienced a steep learning curve this week as I digest
 To visually demonstrate a few techniques I learned throughout the week, I will be using this image of a spider, shown below. I chose an image of a spider as a teaser for my intended title of the completed moviebarcode generator. I’m not ready to release the title yet, but keep following this blog and you will find out.
 
 <figure>
-  <img src="/MSIS-Project/assets/imgs/spider-original.jpg" alt="Friendly Spider Image">
+  <img src="{{ "/assets/imgs/spider-original.jpg" | relative_url }}" alt="Friendly Spider Image">
   <figcaption>(Photo by <a href="https://unsplash.com/@ekamelev?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Егор Камелев</a> on <a href="https://unsplash.com/search/photos/spider?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Unsplash</a>)</figcaption>
 </figure>
 
@@ -26,7 +26,7 @@ NumPy is a numerical processing library that can be used to convert an image int
 
 Some of the notable techniques the book demonstrates is that NumPy can be quickly used to retrieve image pixel values (such as RGB values), crop images areas of interest, and perform arithmetic functions on the images. For example, the image below has been brightened by a value of 50 using simple addition to affect every pixel value of the original image. 
 
-<img src="/MSIS-Project/assets/imgs/spider-brightened.jpg" alt="Spider Image Brightened">
+<img src="{{ "/assets/imgs/spider-brightened.jpg" | relative_url }}" alt="Spider Image Brightened">
 
 ## OpenCV
 OpenCV leverages NumPy and then provides a toolset of image processing functions. OpenCV is commonly used for real-time image processing, object detection, and machine learning.
@@ -44,26 +44,21 @@ I will now quickly demonstrate a couple examples of what I have practiced using 
 
 The image below features a green box that I drew using OpenCV. Although I did this manually using NumPy’s coordinate plane, in future chapters I will learn how to draw these boxes programmatically as a way to indicate which region of the image the computer is processing.
 
-<img src="/MSIS-Project/assets/imgs/spider-green-box.jpg" alt="Spider Image with Green Rectangle on Face">
+<img src="{{ "/assets/imgs/spider-green-box.jpg" | relative_url }}" alt="Spider Image with Green Rectangle on Face">
 
 I was also able to use OpenCV to create a masking that separated individual RGB color values. The images below show what each RGB color value looks like without the other two channels.
 
-<img src="/MSIS-Project/assets/imgs/spider-red.jpg" alt="Spider Image only show Red Channel">
-<img src="/MSIS-Project/assets/imgs/spider-green.jpg" alt="Spider Image only show Green Channel">
-<img src="/MSIS-Project/assets/imgs/spider-blue.jpg" alt="Spider Image only show Blue Channel">
+
+<img src="{{ "/assets/imgs/spider-red.jpg" | relative_url }}" alt="Spider Image only show Red Channel">
+<img src="{{ "/assets/imgs/spider-green.jpg" | relative_url }}" alt="Spider Image only show Green Channel">
+<img src="{{ "/assets/imgs/spider-blue.jpg" | relative_url }}" alt="Spider Image only show Blue Channel">
 
 The last notable takeaway I want to mention is how easy it is to use OpenCV to effect different color spaces. Although all of the examples have been geared towards the RGB color space, the author has provided content to show how easy it is to represent images in other color spaces, such as HSL and CIELAB. For example, the image below shows what the picture looks like in the CIELAB color space (a color space that attempts to represent how humans interpret color).
 
-<img src="/MSIS-Project/assets/imgs/spider-lab.jpg" alt="Spider Image represented in CIELAB color space">
+<img src="{{ "/assets/imgs/spider-lab.jpg" | relative_url }}" alt="Spider Image represented in CIELAB color space">
 
 ## Going Forward
 I am now over halfway done with the book, and the next stage will be to begin real-time analyses of the images, starting with creating histograms using the images’ color ranges. By next week I would like to try to finish the book and begin implementing this research into my MSIS project.
 
 ## References
 Rosebrock, Adrian. _Practical Python and OpenCV, 4th Edition_. 4th version, 4th ed., PyImageSearch.com, 2019, _PyImageSearch_, www.pyimagesearch.com/practical-python-opencv/.
-
-
-
-
-
-

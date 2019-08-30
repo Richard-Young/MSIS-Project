@@ -21,15 +21,3 @@ Next week I will continue to read through Rosenbrock’s work and aim to showcas
 ## References
  
 Rosebrock, Adrian. _Practical Python and OpenCV, 4th Edition_. 4th version, 4th ed., PyImageSearch.com, 2019, _PyImageSearch_, www.pyimagesearch.com/practical-python-opencv/.
-
-
-
- 
-
-
-
-
-
-
-
-

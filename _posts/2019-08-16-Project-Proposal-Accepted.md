@@ -28,14 +28,3 @@ Project Timeline
 Now that my Project Proposal has been accepted by my project committee,  I am very excited to officially begin the research and development stage of my project. 
 
 Expect an update next week!
-
-
- 
-
-
-
-
-
-
-
-
