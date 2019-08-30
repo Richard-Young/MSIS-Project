@@ -23,6 +23,8 @@ Project Timeline
 - Prepare the final documentation (November 11 – November 14)
 - Project defense (November 15)
 
+## Going Forward
+
 Now that my Project Proposal has been accepted by my project committee,  I am very excited to officially begin the research and development stage of my project. 
 
 Expect an update next week!

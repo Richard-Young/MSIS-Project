@@ -15,6 +15,7 @@ This book is a streamlined and hands-on guide to using OpenCV and Python. In the
 
 From reading the first few chapters, I already have a pretty firm grasp of how to begin working with individual pixels of an image. Since frames are just single images of a video, I need to learn how to analyze the pixels that compose these frames. These early chapters have already enriched my knowledge of how a computer displays pixels and how quickly and easily one can utilize Python libraries for image processing.
 
+## Going Forward
 Next week I will continue to read through Rosenbrock’s work and aim to showcase a demonstration of what I am learning through my study of this book. 
  
 ## References

@@ -13,6 +13,8 @@ Following the [documentation precedent](https://andrew-pyle.github.io/msis-proje
 - [Creating your blog for free using Jekyll + Github pages](https://medium.com/20percentwork/creating-your-blog-for-free-using-jekyll-github-pages-dba37272730a){:target="_blank"} 
 - [Understanding gem-based themes](https://jekyllrb.com/docs/themes/){:target="_blank"}
 
+## Going Forward
+
 Going forward, I intend to post weekly updates to this blog every Friday. In these updates I will showcase the current status of my project as well as how I intend to move forward. Additionally, I will discuss problems I encountered and my thought process behind achieving a solution. Ultimately, this blog will serve as the final report for my MSIS Project.
 
  
