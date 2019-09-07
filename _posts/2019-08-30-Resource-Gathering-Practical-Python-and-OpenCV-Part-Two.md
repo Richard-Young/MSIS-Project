@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python Image Processing"
+title: "Resource Gathering - Practical Python and OpenCV - Part 2"
 categories: MSIS Project
 author: "Richard Young"
 meta: "UA Little Rock"
