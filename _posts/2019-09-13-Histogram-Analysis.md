@@ -24,7 +24,7 @@ For instance, the image below is the output of when the [OpenCV correlation comp
   <figcaption>(Moviebarcode Correlation Result Output)</figcaption>
 </figure>
 
-The results above show the first moviebarcode (“Ok Go - Needing_Getting - Offical Video.png”) being used as the queried (orginal) image. This is why its value is 1.00. A value is then given to all the other images based on how correlated they are to the orginal image. A  higher value means the image is more similar to the orginal image. The results are then sorted based on how related they are to the orginal image. In this example, the Jurassic Park trailer has the most difference in comparrison to the four videos from the same music artist.
+The results above show the first moviebarcode (“Ok Go - Needing_Getting - Offical Video.png”) being used as the queried (original) image. This is why its value is 1.00. A value is then given to all the other images based on how correlated they are to the original image. A  higher value means the image is more similar to the original image. The results are then sorted based on how related they are to the original image. In this example, the Jurassic Park trailer has the most difference in comparrison to the four videos from the same music artist.
 
 ## Going Forward
 Next week, my wife and I will be flying out to begin our year-long adventure in Spain. With this said, there is a very slim possibility that I will have time to publish a post next week. However, I will be working toward wrapping up my first project deliverable of my MSIS project (Optimize moviebarcode generation development), which I aim to complete by September 22nd.
