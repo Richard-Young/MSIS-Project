@@ -10,7 +10,7 @@ This past week I began the Django application development process. This is my fi
 
 Django provides a framework for web applications to use Python and interact with a database, and it is relatively quick and simple to create web prototypes using this framework. Additionally, the [official Django Project documentation](https://docs.djangoproject.com/en/2.2/){:target="_blank"} is well written and easy to follow.
 
-If you are wanting to get started with Django and are looking for resources, here are few that I followed this week and found to be very helpful:
+If you are wanting to get started with Django and are looking for resources, here are a few that I used this week and found to be very helpful:
 - [Model-View-Controller (MVC) Explained – With Legos](https://realpython.com/the-model-view-controller-mvc-paradigm-summarized-with-legos/){:target="_blank"}
 - [Writing your first Django app](https://docs.djangoproject.com/en/2.2/intro/tutorial01/){:target="_blank"}
 - [Django Tutorial (Create a Blog)](https://www.youtube.com/watch?v=n-FTlQ7Djqc&list=PL4cUxeGkcC9ib4HsrXEYpQnTOTZE1x0uc){:target="_blank"} (Youtube Playlist)
