@@ -14,6 +14,4 @@ I have been utilizing Vitor Freita’s Youtube playlist, [Django 2.1 File Upload
 I am realizing that Django’s initial database is a bit more primitive than what I need, since the data I need to store is more complicated in nature. However, I have some ideas for this coming week to work around this problem.
 
 ## Going Forward
-Next week, I will be submitting my final blog post for my MSIS project documentation. My project committee will then officially begin evaluating my progress throughout the course of this semester. 
-
-Next week I am to have solved the problems discussed above and to be able to deliver a rough prototype.
+Next week, I will be submitting my final blog post for my MSIS project documentation. My project committee will then officially begin evaluating my progress throughout the course of this semester. Hopefully by next week I will have solved the problems discussed above and will be able to deliver a rough prototype.
