@@ -20,7 +20,7 @@ Next week, I will be submitting my final blog post for my MSIS project documenta
 It's the weekend, and I wanted to provide an update that I have solved the problems discussed above. I can now successfully provide a Youtube Id to a Django form, Django will generate both a PNG and JSON file, and this generated data is stored correctly to my local Django database.
 
 <figure>
-<img src="{{ "/assets/imgs/barcode_generation_screenshot.gif" | relative_url }}" alt="Screenshot of generating moviebarcode data then and retriving it with Django">
-  <figcaption>(Screenshot of generating moviebarcode data then and retriving it with Django)</figcaption>
+<img src="{{ "/assets/imgs/barcode_generation_screenshot.gif" | relative_url }}" alt="Screenshot of generating moviebarcode data then and retrieving it with Django">
+  <figcaption>(Screenshot of generating moviebarcode data then and retrieving it with Django)</figcaption>
 </figure>
 
