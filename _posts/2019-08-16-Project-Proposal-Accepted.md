@@ -9,7 +9,7 @@ excerpt: "This week I accomplished the first major milestone for my MSIS project
 
 This week I accomplished the first major milestone for my MSIS project: completion and acceptance of my project proposal!
 
-This project will be a continuation of research efforts that I first began in Dr. Nitan Agarwal’s Social Computing Class (Spring 2019). During this class, I researched techniques for generating moviebarcodes from downloaded Youtube videos, and then I created a proof of concept user interface. A copy of this research report is provided in my official Project Proposal.
+This project will be a continuation of research efforts that I first began in Dr. Nitin Agarwal’s Social Computing Class (Spring 2019). During this class, I researched techniques for generating moviebarcodes from downloaded Youtube videos, and then I created a proof of concept user interface. A copy of this research report is provided in my official [Project Proposal](https://docs.google.com/document/d/1bHH2Brtuh4rkgAxUf3fWJmN3kRDn9nY2yz_iwmt10VY/edit?usp=sharing){:target="_blank"}.
 
 At the conclusion of this project I aim to provide the following:
 
@@ -25,6 +25,6 @@ Project Timeline
 
 ## Going Forward
 
-Now that my Project Proposal has been accepted by my project committee,  I am very excited to officially begin the research and development stage of my project. 
+Now that my project proposal has been accepted by my project committee,  I am very excited to officially begin the research and development stage of my project. 
 
 Expect an update next week!
